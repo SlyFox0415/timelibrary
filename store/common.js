@@ -16,8 +16,8 @@ export default {
   },
   actions: {
     // Show loading
-    setLoading ({commit}, payload) {
-      commit('setLoading', payload)
+    // setLoading ({commit}, payload) {
+    //   commit('setLoading', payload)
     },
     // Show error
     setError ({commit}, payload) {
